@@ -1,0 +1,48 @@
+---  
+layout: post  
+title: "Week 10"  
+tags: [bibliographic annotation, fieldbook]  
+author: Kenneth Haley 
+---
+#Week 10
+
+
+Drucker, Johanna. “From A to Screen.” _Comparative Textual Media_, 2013.
+
+Drucker’s examination of the technical and graphical nature of letters, and how our conception of letters is altered by the move to digital spaces and methods of print. She especially highlights the way digital text affect our interaction with text, and serves to lend it a weirdly ethereal feel, noting that the technology behind it relies upon conceptions of letters as immutable and unchangeable things universally recognized and understood. The digital letters we see on the screen are not permanent, stable, items, but instead “assume their identity only as momentary configurations of energy in flux” (74). This is, in turn, placed into context with the historical development of technology and how this affected humanities ability to create and spread specific letter variations.
+
+By examining letters on an individual, atomistic level, Drucker’s essay feels like a logical extension of Whitmore’s. While Whitmore addresses the idea of texts as gestalt entities which can be engaged with on a multitude of levels, Drucker’s writing examines text on the micro leven, examining each letter as its own unit, and pushes it even further by examining--not only the letters--but design elements and decisions that went into their creation.
+
+Perhaps the most intriguing aspect of her text, is her comments on how the use of English as the default coding language has “implications for our current condition, for the unacknowledged hegemonic hold of the Western alphabet on computational processing, on its in ltration into the very structure of the networked world in which its ASCII, Unicode, and Bin-Hex systems operate” (77). This in turn reinforces English as lingua france, forcing other cultures and nations to bend and turn towards English if they wish to take part in the coding of computers. This hidden aspect of technology connects with multiple other texts from this weeks reading, including Tenen, Whitmore, Weingart, and Rita, all of which engage with the hidden and unseen aspects of technology. This aspect raises numerous questions about why it became the default, and how this affects the study and practice of non-English in the tech industries of non-English speaking nations. Does this function as a form of undercover colonialization, pushing other languages to the edges of tech culture and discourse? 
+
+
+McGann, Jerome. “The Textual Condition.” _The Textual Condition_, Princeton University Press, Princeton, 1991.
+
+Jerome McGann’s essay explains and highlights the way a single text may occupy multiple temporalities at once. The constant shifts back and forth, between April 1, April 27, and other dates, not only emphasize this aspect, but they also allow McGann to suggest the effects of other things on a text’s creation, including unseen edits and revisions, and technical difficulties, all of which are often overlooked and not discussed with regards to academic studies of texts, yet all of which also play a large part in the final product we read/study/examine. It also raises numerous questions about the aspects McGann discusses. While things such as version control may help with these in some respects, there’s still plenty of room for debate as to whether they should be considered when studying a text, and it seems that an attempt to inject such “hidden” factors into our understanding of a text would be ultimately futile speculation. If we are unable to track and confirm the existence of such things, how are we to discuss them? That said, it does open the door for us to view a text, not as a whole, but as a gestalt entity formed over lengthy periods of time and under a wide variety of conditions? 
+
+
+Raley, Rita. “TXTual Practice.” _Comparative Textual Media_, 2013.
+
+Rita discusses the way digital, TXT based, art displays are not only often participatory, but also impermanent, noting “the exact temporal structure of each art project, each installation, differs, but what they necessarily share is the evental form...they are said to ‘run’ for a set number of days or hours per day, and the messages on display are thus impermanent” though she acknowledges that such things may be recorded, “the moment of textual consumption...cannot be restaged or reenacted” (6). The transient, instantaneous nature of the artwork places it as a polar opposite of McGann’s conception of “The Textual Condition,” in which text essentially compiles and occupies a plurality of temporalities which are revisited and built upon with each reading and encounter. This emphasis on “the moment of textual consumption” being unique to a specific time and incapable of being reproduced, seems to neglect that such a thing is arguably true for all artwork. Is it truly possible to reproduce the first moment one saw a specific painting? Given how some artwork is prone to touring museum, wouldn’t removing the painting from their specific or traditional display context render the possibility of reproducing the intended viewing experience impossible as well? Is the issue of intent when it comes to the display of artwork of any matter at all?
+
+
+Rita's discussion of _Blinkenlights_ (2001-2002), an interactive work that invited participants to engage with and contribute content to a pixelated display screen formed out of a lighting system installed in the windows of the top eight floors of a building” (10) serves a prelude to broader experimentation with such participatory, public, light based art and displays. It recalls the Twitter controlled Christmas tree lights that Boston put up several years back, but is also a direct forerunner of the NYC based, invitation only, Spireworks app, which allows users to control the lights of two of the city’s skyscrapers. Further, Rita emphasizes the way in which such pieces of art are inherently temporary and impermanent, existing once before disappearing--barring video recording. 
+
+
+Shep, Sydney. “‘Smiley, you’re on candid camera’: Emoticons & Pre-Digital Networks.” _Studies in Book Culture_, vol. 2, no. 1, 2010.
+
+Shep’s article traces the history of the smiley face in print, merging the idea of textual/book history studies with the field of visual culture. While the article presents a fascinating history of the smile face in early print culture--and uses it as a springboard into other, playful, manipulations of print as a visual medium--it was surprising that Shep never discussed Nicholas and Franklin Loufrani’s legal battles to copyright/trademark the basic yellow smiley face. This was especially noticeable when Shep discussed the various attempts to trademark and brand the smiley as an emoticon, something which represents the corporatization of public space, and also something which echoes the ideas of unseen systems or layers interacting and shaping our own interactions with the world, something which Tenen and Weingart likewise touched on. It also forces us to consider the spread of such images, their potential connection to corporate and private interests, and how this might affect the spread and sharing of such information. The playfulness on display not only shows our attempts to anthropomorphize our technology by forcing it into human shapes and forms. Doing so raises questions about our relationships with our technology, and what we hope to accomplish in turning random shapes into faces. Does it speak to human narcissism? How this attempt to copyright/trademark and otherwise control symbols which have become ubiquitous mirror and echo concerns about the hidden layers within technology in general? 
+
+
+Whitmore, Michael. “Text: A Massively Addressable Object.” _Debates in the Digital Humanities_, 2012.
+
+Whitmore’s article focuses on the various ways texts can be read and how they interact with one another on a wide variety of levels. As he notes early one, “a text is a text  because it is massively addressable at different levels of scale. Addressable here means  that one can query a position within the text at a certain level of abstraction...a text can be queried at the level of single words and then related to other texts at the same level of abstraction: the table of all possible words could be defined as the aggregate of points of address at a given level of abstraction.” Essentially, it is possible to view texts intertextually or alone, through a wide variety of scales. Instead of viewing it as a single, monolithic thing, it is possible to break it down into its constituant parts and place them in conversation with other works. Looking at texts in this way opens up possibilities for different methods of putting differing texts into conversation with one another. On a personal experience level, this seems like a key concept in the use of Word2Vec, which sees massive numbers of texts dumped into a single file for pattern analysis. This method of examining texts does raise questions about their nature, and seems to invoke ideas that connect too things such as cut up poetry, or the random text generators we used in a previous lab. 
+
+Looking at large swaths of text and literature in this way does allow us to address questions about genre, style, and the like. What are the unifying aspects of a genre? Could analysis on this level challenge our assumptions about what does unify a specific genre of writing? Could it potentially blur the lines and challenge our ideas about regional, national, temporal, stylistic tics and trends? Could we possible draw transnational connections that we were previously unaware of?
+
+
+
+
+
+
+
